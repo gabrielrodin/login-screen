@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Login Screen With React
+<img title="a title" alt="Alt text" src="src/assets/Untitled design.gif">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
